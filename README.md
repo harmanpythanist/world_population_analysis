@@ -1,5 +1,14 @@
-Peace be upon you. We worked with population data from Our World in Data. The specific CVS dataset can be downloaded from 
+Peace be upon you. We worked with population data from 1950 to 2021. The CVS dataset can be downloaded from 
+
 https://ourworldindata.org/population-growth#explore-data-poverty. 
 
-The dataset is an annual time-series by country of population, both total population and population by various demographic groups.We have worked on this dataset according to assignment instruction only and have not explored much.
-If you are interested in doing so, you can make changes and we will appreciate if you can let us know with that as well!
+We have worked on this dataset according to assignment instruction only and have not explored much.
+There are various graphs showing changes in distribution of population in specified country over the time. (1950 - 2021)
+
+You can view the sample images from repository for a better idea of how we explored things!
+
+
+
+
+
+
